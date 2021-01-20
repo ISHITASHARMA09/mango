@@ -1,2 +1,2 @@
-# mango
-whjr
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
